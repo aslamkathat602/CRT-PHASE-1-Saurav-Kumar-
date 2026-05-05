@@ -1,3 +1,6 @@
+/*write a cpp program that takes an integer n as an input print all number
+ from 1 to n but skip any number that is multiple of 3 using continue statement
+*/
 #include <iostream>
 using namespace std;
 

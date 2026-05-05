@@ -1,3 +1,7 @@
+/*write a cpp program that takes two integer as input from the user. 
+find the maximum of two using ternary conditional operator
+*/
+
 #include <iostream>
 using namespace std;
 
