@@ -1,0 +1,13 @@
+// function  with return type  and with arguement
+#include<iostream>
+using namespace std;
+
+int sum(int a, int b){
+    cout << a+ b;
+
+}
+
+int main(){
+    int ans = sum (3,5);
+    return 0;
+}
